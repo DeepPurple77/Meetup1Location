@@ -1,0 +1,26 @@
+{
+    "appKeys": {
+        "coords": 2,
+        "get_location": 1,
+        "ready": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "DeepPurple",
+    "longName": "JHB Meetup 1 Location Demo",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "JHB Meetup 1 Location Demo",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "49938025-ba8a-48db-b886-e4fb459ec5f6",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
